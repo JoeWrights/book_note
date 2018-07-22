@@ -178,7 +178,7 @@ show variables like 'character%';
 ```
 ### 查看数据库支持的所有字符集
 ```sql
- show character set;
+show character set;
 ```
 或
 ```sql
